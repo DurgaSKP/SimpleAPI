@@ -17,6 +17,10 @@ variables:
 steps:
 - checkout: self
 
-- script: dotnet build **/SimpleAPISln.sln --configuration $(buildConfiguration)
-  displayName: 'dotnet build $(buildConfiguration)'
+- script: |
+    echo "Current working directory:"
+    pwd
+    ls -R   # Lists all files and directories to check where SimpleAPISln.sln is located
+    dotnet build SimpleAPISln.sln --configuration $(buildConfiguration)
+  displayName: 'Build Solution'
 
