@@ -9,7 +9,7 @@ trigger:
 pool:
   name: Self-Hosted Agents
   demands:
-    - agent.name -equals YourAgentName
+    - agent.name -equals WARNI
 
 variables:
   buildConfiguration: 'Release'
