@@ -18,9 +18,9 @@ steps:
 - checkout: self
 
 - script: |
-    echo "Current working directory:"
-    pwd
-    ls -R   # Lists all files and directories to check where SimpleAPISln.sln is located
+    echo "Listing current directory structure..."
+    dir /S   # List all files and directories to find SimpleAPISln.sln
     dotnet build SimpleAPISln.sln --configuration $(buildConfiguration)
   displayName: 'Build Solution'
+
 
