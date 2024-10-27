@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\durga\\source\\repos\\SimpleAPISln\\SimpleAPISln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{967DF73E-1E51-42D5-A4E1-5A5ED2920691}|Solution Items{967DF73E-1E51-42D5-A4E1-5A5ED2920691}|C:\\Users\\durga\\source\\repos\\SimpleAPISln\\SimpleAPISln\\.gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{967DF73E-1E51-42D5-A4E1-5A5ED2920691}|Solution Items{967DF73E-1E51-42D5-A4E1-5A5ED2920691}|solutionrelative:.gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53179931-F13F-4A42-875E-7C42EBF18175}|..\\test\\SimpleAPI.Test\\SimpleAPI.Test.csproj|c:\\users\\durga\\source\\repos\\simpleapisln\\test\\simpleapi.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86A72EA-6A94-42F0-A792-C2B4E393CA78}|..\\src\\SimpleAPI\\SimpleAPI.csproj|c:\\users\\durga\\source\\repos\\simpleapisln\\src\\simpleapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86A72EA-6A94-42F0-A792-C2B4E393CA78}|..\\src\\SimpleAPI\\SimpleAPI.csproj|c:\\users\\durga\\source\\repos\\simpleapisln\\src\\simpleapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore.txt",
+              "DocumentMoniker": "C:\\Users\\durga\\source\\repos\\SimpleAPISln\\SimpleAPISln\\.gitignore.txt",
+              "RelativeDocumentMoniker": ".gitignore.txt",
+              "ToolTip": "C:\\Users\\durga\\source\\repos\\SimpleAPISln\\SimpleAPISln\\.gitignore.txt",
+              "RelativeToolTip": ".gitignore.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-27T09:52:19.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\durga\\source\\repos\\SimpleAPISln\\src\\SimpleAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "..\\src\\SimpleAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\durga\\source\\repos\\SimpleAPISln\\src\\SimpleAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "..\\src\\SimpleAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T08:53:22.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\durga\\source\\repos\\SimpleAPISln\\src\\SimpleAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "..\\src\\SimpleAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\durga\\source\\repos\\SimpleAPISln\\src\\SimpleAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "..\\src\\SimpleAPI\\WeatherForecast.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAD4vwoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:12:22.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\durga\\source\\repos\\SimpleAPISln\\test\\SimpleAPI.Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\test\\SimpleAPI.Test\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\durga\\source\\repos\\SimpleAPISln\\test\\SimpleAPI.Test\\UnitTest1.cs",
+              "RelativeToolTip": "..\\test\\SimpleAPI.Test\\UnitTest1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T06:51:13.961Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
